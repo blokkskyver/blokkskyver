@@ -3,6 +3,6 @@
  <abc>
   <br>Golang Web developer. <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://sun2.megafon-nn.userapi.com/c856428/u164304792/docs/d1/8f554276213c/Gordon.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
