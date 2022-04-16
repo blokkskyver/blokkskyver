@@ -8,19 +8,19 @@
 |
 +-------Experience--------▰▰▰
 |
-+--> <link href="https://www.facebook.com/priboreelectronics/">Pribore Electronics</link>  ~2y
++--> <a href="https://www.facebook.com/priboreelectronics/">Pribore Electronics</a>  ~2y
 |    xxxxxxxxxxxxxxxxxxx
 |    C/ASM/BLE/NORDIC
 |    xxxxxxxxxxxxxxxxxxx
-+--> <link href="https://zecurion.ru/">Zecurion</link>             ~7mo
++--> <a href="https://zecurion.ru/">Zecurion</a>             ~7mo
 |    xxxxxxxxxxxxxxxxxxx
 |    GO/IMAP/SECURITY
 |    xxxxxxxxxxxxxxxxxxx
-+--> <link href="https://sberdevices.ru/">SberDevices</link>          ~1y
++--> <a href="https://sberdevices.ru/">SberDevices</a>          ~1y
 |    xxxxxxxxxxxxxxxxxxx
 |    GO/NLP/SMARTHOME
 |    xxxxxxxxxxxxxxxxxxx
-+--> <link href="https://waves.tech/">Waves</link>                ~curr
++--> <a href="https://waves.tech/">Waves</a>                ~curr
 |    xxxxxxxxxxxxxxxxxxx
 |    GO/RUST/BLOCKCHAIN
 |    xxxxxxxxxxxxxxxxxxx
