@@ -3,7 +3,7 @@
 |       Hello, I'm Daniil :)       |
 +----------------------------------+
 |
-| <> Go web/blockchain dev 22 y.o.
+| <> Go web/blockchain dev 23 y.o.
 |
 +-------Experience--------▰▰▰
 |
