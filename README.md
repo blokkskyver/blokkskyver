@@ -27,7 +27,7 @@
 |    xxxxxxxxxxxxxxxxxxx
 |    GO/FINTECH/HIGHLOAD
 |    xxxxxxxxxxxxxxxxxxx
-+--> <a href="">GOLANGTECH</a>               
++--> <a>GOLANGTECH</a>               
 |    xxxxxxxxxxxxxxxxxxx
 |    FINTECH/HIGHLOAD/ETC
 |    xxxxxxxxxxxxxxxxxxx
