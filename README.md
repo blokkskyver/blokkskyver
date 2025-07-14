@@ -3,7 +3,7 @@
 |       Hello, I'm Daniil :)       |
 +----------------------------------+
 |
-| <> Go web/blockchain dev 23 y.o.
+| <> Go web/blockchain dev 26 y.o.
 |
 +-------Experience--------▰▰▰
 |
@@ -11,17 +11,25 @@
 |    xxxxxxxxxxxxxxxxxxx
 |    C/ASM/BLE/NORDIC
 |    xxxxxxxxxxxxxxxxxxx
-+--> <a href="https://zecurion.ru/">Zecurion</a>             ~7mo
++--> <a href="https://zecurion.ru/">Zecurion</a>             
 |    xxxxxxxxxxxxxxxxxxx
 |    GO/IMAP/SECURITY
 |    xxxxxxxxxxxxxxxxxxx
-+--> <a href="https://sberdevices.ru/">SberDevices</a>          ~1y
++--> <a href="https://sberdevices.ru/">SberDevices</a>          
 |    xxxxxxxxxxxxxxxxxxx
 |    GO/NLP/SMARTHOME
 |    xxxxxxxxxxxxxxxxxxx
-+--> <a href="https://waves.tech/">Waves</a>                ~curr
++--> <a href="https://waves.tech/">Waves</a>               
 |    xxxxxxxxxxxxxxxxxxx
 |    GO/RUST/BLOCKCHAIN
+|    xxxxxxxxxxxxxxxxxxx
++--> <a href="https://avito.ru">Avito.Tech</a>               
+|    xxxxxxxxxxxxxxxxxxx
+|    GO/FINTECH/HIGHLOAD
+|    xxxxxxxxxxxxxxxxxxx
++--> <a href="">GOLANGTECH</a>               
+|    xxxxxxxxxxxxxxxxxxx
+|    FINTECH/HIGHLOAD/ETC
 |    xxxxxxxxxxxxxxxxxxx
 +------------------------------▰▰▰
 Fight Bugs                      |     |
@@ -35,7 +43,7 @@ Fight Bugs                      |     |
                            <-->[_[ [M /@/] ]
                           /../ [.[ [ /@/ ] ]
      _________________]\ /__/  [_[ [/@/ C] ]
-    <_________________>>0---]  [=\ \@/ C / /
+    <___RUSTY_SWORD___>>0---]  [=\ \@/ C / /
        ___      ___   ]/000o   /__\ \ C / /
           \    /              /....\ \_/ /
        ....\||/....           [___/=\___/
